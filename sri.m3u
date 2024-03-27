@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="itn" tvg-name="ITN TV" group-title="Sri Lanka", ITN TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="hiru" tvg-name="HIRU TV" group-title="Sri Lanka", HIRU TV
+https://tv.lotustechnologieslk.net:1936/8012/8012/chunklist_w1207901404.m3u8
